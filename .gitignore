@@ -8,3 +8,4 @@
 # 예외적으로 추적할 것들
 !.gitignore
 !particle/
+!particle/**
