@@ -1,0 +1,10 @@
+# 기존 무시 유지
+.qodo
+.fake
+
+# 나머지 전체 무시
+*
+
+# 예외적으로 추적할 것들
+!.gitignore
+!particle/
